@@ -5,6 +5,7 @@
 html,
 body {
   height: 100%;
+  margin: 0;
 }
 
 body {
@@ -54,6 +55,4 @@ p {
 
 .attribution a {
   color: hsl(228deg, 45%, 44%);
-}
-
-/*# sourceMappingURL=index.css.map */
+}/*# sourceMappingURL=index.css.map */
