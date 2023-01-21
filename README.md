@@ -35,6 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Link
 
+- Solution URL: [my solution](https://www.frontendmentor.io/solutions/qr-code-component-jQcLSgLtKa)
 - Live Site URL: [qr-code-component-main](https://qr-code-component-main-taupe.vercel.app/)
 
 ## My process
